@@ -1,0 +1,4 @@
+dateutil
+requests
+lxml
+bs4
